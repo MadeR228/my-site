@@ -1,0 +1,23 @@
+{
+  "name": "mykhailo-habor-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "build": "vite build",
+    "start": "node server.js --production"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.1.0",
+    "vite": "8.2.2"
+  }
+}

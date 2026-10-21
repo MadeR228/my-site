@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.idea
+.vscode
+.env
+.env.*
+*.log
+*.tar
+*.tar.gz
+portfolio
+social-card-output
+deploy
+WebstormProjects.lnk
