@@ -1,4 +1,4 @@
-Local portfolio built as a conventional Node.js application:
+Portfolio built as a conventional Node.js application:
 
 - Express serves the REST API and the production build.
 - Vite serves the React client in development.
